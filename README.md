@@ -25,6 +25,13 @@
 npm install hexo-cli -g
 ```
 
+## 邀请协同开发
+
+```
+https://github.com/xidianai/xidianai.github.io/settings/collaboration
+```
+
+
 ## Init
 
 ### from GitHub Init
