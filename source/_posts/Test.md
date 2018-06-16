@@ -4,13 +4,16 @@ subtitle: this is the first blog article for test
 date: 2018-06-16
 cover: /resources/system/test_cover.png
 
-categories: 测试
+categories: 
+    - 测试
+    
 tags:
+    - ALISURE
     - 测试
     
 author: 
   nick: ALISURE
-  link: /search/?search=ALISURE
+  link: /tags/ALISURE
 ---
 
 ## 测试

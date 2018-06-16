@@ -42,8 +42,10 @@ cover: /resources/you name/path/you cover.png（请修改为自己的封面图�
 * 分类和标签
 
 ```
-categories: 分类（请修改合适的类别）
+categories:
+    - 分类（请修改合适的类别）
 tags:
+    - you name（请修改合适的标签，这个为必须的）
     - 标签 1（请修改合适的标签，可以多个）
     - 标签 2（请修改合适的标签，可以多个）
     - 标签 3（请修改合适的标签，可以多个）

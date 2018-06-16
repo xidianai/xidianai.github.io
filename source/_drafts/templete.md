@@ -6,15 +6,17 @@ cover: /resources/you name/path/you cover.png（请修改为自己的封面图�
 
 draft: true（请删除此行）
 
-categories: 分类（请修改合适的类别）
+categories: 
+    - 分类（请修改合适的类别）
 tags:
+    - you name（请修改合适的标签，这个为必须的）
     - 标签 1（请修改合适的标签，可以多个）
     - 标签 2（请修改合适的标签，可以多个）
     - 标签 3（请修改合适的标签，可以多个）
     
 author: 
-  nick: you nick（请修改为名称）
-  link: /search/?search=you nick（推荐这个，也可以将此行删除）
+  nick: you name（请修改为名称）
+  link: /tags/you name（推荐这个，也可以将此行删除）
 ---
 
 
