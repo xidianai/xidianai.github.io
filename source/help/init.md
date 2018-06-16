@@ -28,6 +28,8 @@ npm install hexo-cli -g
 
 ## 邀请协同开发
 
+> 请联系项目所有者邀请协同开发
+
 ```
 https://github.com/xidianai/xidianai.github.io/settings/collaboration
 ```
