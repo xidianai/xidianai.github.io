@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>XiDian AI</title>
   
-  <subtitle>XiDian AI of Liu</subtitle>
+  <subtitle>XiDian AI</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xidianai.github.io/"/>
-  <updated>2018-06-15T14:08:08.431Z</updated>
+  <updated>2018-06-16T20:34:56.782Z</updated>
   <id>https://xidianai.github.io/</id>
   
   <author>
@@ -17,23 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://xidianai.github.io/2018/06/15/hello-world/"/>
-    <id>https://xidianai.github.io/2018/06/15/hello-world/</id>
-    <published>2018-06-15T14:08:08.430Z</published>
-    <updated>2018-06-15T14:08:08.431Z</updated>
+    <title>Test</title>
+    <link href="https://xidianai.github.io/2018/06/16/Test/"/>
+    <id>https://xidianai.github.io/2018/06/16/Test/</id>
+    <published>2018-06-15T16:00:00.000Z</published>
+    <updated>2018-06-16T20:34:56.782Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">hexo help  # 帮助</span><br><span class="line">hexo s  # 本地服务器</span><br><span class="line">hexo clean  # 清空</span><br><span class="line">hexo g  # 生成</span><br><span class="line">hexo d  # 部署</span><br><span class="line">hexo g -d  # 生成并部署</span><br></pre></td></tr></table></figure><h3 id="上传分享资料方法"><a href="#上传分享资料方法" class="headerlink" title="上传分享资料方法"></a>上传分享资料方法</h3><ol><li><p>复制该文件到 <code>source/_posts</code> 中</p></li><li><p>修改最上面的配置</p></li><li><p>在 <code>source/resources/you name</code> 目录下创建新的文件夹，推荐按照日期命名</p></li><li><p>将涉及到的所有资料放入新创建的文件夹</p></li><li><p>根据内容编写具体内容即可</p></li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">具体内容可以包括：大致的思路、代表性的图片、实验结果、资料链接等</span><br></pre></td></tr></table></figure><h3 id="语法参考"><a href="#语法参考" class="headerlink" title="语法参考"></a>语法参考</h3><ol><li>链接</li></ol><p><a href="https://www.baidu.com" target="_blank" rel="noopener">这是链接</a></p><p><a href="/">这是链接</a></p><ol start="2"><li>图片</li></ol><p><img src="/resources/system/test_cover.png" alt="这是图片"></p><ol start="3"><li><p>标题</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3></li></ol><ol start="4"><li>引用</li></ol><blockquote><p>这里是引用的内容</p></blockquote><ol start="5"><li>代码</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这里是代码的内容</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h2&gt;&lt;h3 id=&quot;常用命令&quot;&gt;&lt;a href=&quot;#常用命令&quot; class=&quot;headerlink&quot; title=&quot;常用命令&quot;&gt;&lt;/a&gt;常用命令&lt;/h
       
     
     </summary>
     
+      <category term="测试" scheme="https://xidianai.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="https://xidianai.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
