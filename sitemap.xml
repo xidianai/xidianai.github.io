@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xidianai.github.io/help/init.html</loc>
+    <loc>https://xidianai.github.io/help/upload.html</loc>
     
-    <lastmod>2018-06-16T21:30:53.395Z</lastmod>
+    <lastmod>2018-06-16T21:42:47.683Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://xidianai.github.io/help/index.html</loc>
     
-    <lastmod>2018-06-16T21:29:15.890Z</lastmod>
+    <lastmod>2018-06-16T21:35:48.474Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xidianai.github.io/help/init.html</loc>
+    
+    <lastmod>2018-06-16T21:30:53.395Z</lastmod>
     
   </url>
   
