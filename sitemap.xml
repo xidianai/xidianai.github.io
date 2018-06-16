@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xidianai.github.io/about/index.html</loc>
+    <loc>https://xidianai.github.io/help/init.html</loc>
     
-    <lastmod>2018-06-16T21:23:31.349Z</lastmod>
+    <lastmod>2018-06-16T21:30:53.395Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://xidianai.github.io/help/index.html</loc>
     
-    <lastmod>2018-06-16T21:23:31.342Z</lastmod>
+    <lastmod>2018-06-16T21:29:15.890Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xidianai.github.io/about/index.html</loc>
+    
+    <lastmod>2018-06-16T21:23:31.349Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://xidianai.github.io/2018/06/16/Test/</loc>
     
     <lastmod>2018-06-16T21:00:00.263Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xidianai.github.io/help/init.html</loc>
-    
-    <lastmod>2018-06-16T19:41:38.396Z</lastmod>
     
   </url>
   
