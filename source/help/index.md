@@ -10,6 +10,8 @@ layout: about
 
 ## 注意事项
 
+* 每次开始编辑之前请务必拉取(pull)最新的代码，和服务器保持一致
+
 * 禁止上传和实验室相关的资料
 
 * 目前导师还不知道这个Blog系统的存在，请不要告诉导师
@@ -23,6 +25,11 @@ layout: about
 ## 部署环境
 
 如果您要在自己电脑上配置环境，请点击：[部署环境](/help/init.html)
+
+
+## 主题相关
+
+如果您想优化该主题，请点击：[hexo-theme-skapp](https://github.com/Mrminfive/hexo-theme-skapp)
 
 
 ## 更多的帮助
