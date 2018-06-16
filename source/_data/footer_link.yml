@@ -1,0 +1,18 @@
+friend_links:
+  - name: tensorflow
+    desc: tensorflow
+    link: https://github.com/tensorflow/tensorflow
+  - name: pytorch
+    desc: pytorch
+    link: https://github.com/pytorch/pytorch
+  - name: caffe
+    desc: caffe
+    link: https://github.com/BVLC/caffe
+
+build_tools:
+  - name: xidianai
+    desc: xidianai
+    link: https://github.com/xidianai/xidianai.github.io
+  - name: alisure-ml
+    desc: alisure-ml
+    link: https://github.com/alisure-ml
