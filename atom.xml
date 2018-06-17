@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xidianai.github.io/"/>
-  <updated>2018-06-16T21:00:00.263Z</updated>
+  <updated>2018-06-17T06:17:28.390Z</updated>
   <id>https://xidianai.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试22</title>
+    <link href="https://xidianai.github.io/2018/06/17/Test2/"/>
+    <id>https://xidianai.github.io/2018/06/17/Test2/</id>
+    <published>2018-06-16T16:00:00.000Z</published>
+    <updated>2018-06-17T06:17:28.390Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="新的文章"><a href="#新的文章" class="headerlink" title="新的文章"></a>新的文章</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;新的文章&quot;&gt;&lt;a href=&quot;#新的文章&quot; class=&quot;headerlink&quot; title=&quot;新的文章&quot;&gt;&lt;/a&gt;新的文章&lt;/h2&gt;
+      
+    
+    </summary>
+    
+      <category term="测试" scheme="https://xidianai.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="https://xidianai.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="ALISURE" scheme="https://xidianai.github.io/tags/ALISURE/"/>
+    
+  </entry>
   
   <entry>
     <title>Test</title>
